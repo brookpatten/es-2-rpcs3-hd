@@ -1,5 +1,6 @@
 # es-2-rpcs3-hd
 ## Add your *installed* ps3 roms to Emulation station
+### Default values are for steamdeck with emudeck installed to SD, but you can change the paths to what suits you
 
 This script creates symlinks so that your games installed into your rcps3 "hard drive" will show in emulation station.
 
