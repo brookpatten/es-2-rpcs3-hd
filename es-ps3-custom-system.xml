@@ -1,0 +1,10 @@
+ 
+<system>
+    <name>ps3</name>
+    <fullname>PlayStation 3</fullname>
+    <path>%ROMPATH%/ps3</path>
+    <extension>.BIN</extension>
+    <command label="RPCS3">/usr/bin/flatpak run net.rpcs3.RPCS3 --no-gui %ROM%</command>
+    <platform>ps3</platform>
+    <theme>ps3</theme>
+  </system>
